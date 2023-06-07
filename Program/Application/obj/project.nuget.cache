@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sZE1kFGZmFP2tbAsE1omPr4gRBlyNiB/2VDe2bU/CUtC9oK738S4Vh7N+8ubjvrT9e5J4ADuI1FvaCT8XtAzNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devhi\\Desktop\\Dev\\Dev on Demand\\System\\Program\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devhi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\devhi\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\devhi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
